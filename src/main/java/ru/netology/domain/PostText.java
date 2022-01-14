@@ -1,13 +1,9 @@
 package ru.netology.domain;
 
 public class PostText {
+    private int id;
     private String text;
 
-    public String getText() {
-        return text;
-    }
+    // gets/sets
 
-    public void setText(String text) {
-        this.text = text;
-    }
 }

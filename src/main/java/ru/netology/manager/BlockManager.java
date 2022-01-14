@@ -4,12 +4,11 @@ public class BlockManager {
     private PostHeadManager postHeadManager;
     private PostTextManager postTextManager;
     private PostImageManager postImageManager;
-    private PostCommentsManager postCommentsManager;
+    private PostCommentManager postCommentsManager;
 
     public String generateBlock(){
         // TODO;
         return null;
     }
-
 
 }

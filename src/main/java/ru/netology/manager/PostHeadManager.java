@@ -6,7 +6,7 @@ public class PostHeadManager {
     private PostHead[] postHeads;
 
 
-    public String generateBlock(){
+    public String generateBlock (){
         // TODO; add logic;
         return null;
     }
