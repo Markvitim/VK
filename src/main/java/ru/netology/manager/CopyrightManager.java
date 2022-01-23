@@ -1,9 +1,9 @@
 package ru.netology.manager;
 
-import ru.netology.domain.PostHead;
+import ru.netology.domain.Copyright;
 
-public class PostHeadManager {
-    private PostHead[] postHeads;
+public class CopyrightManager {
+    private Copyright[] copyrights;
 
     public String generateBlock (){
         // TODO; add logic;

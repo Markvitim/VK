@@ -1,9 +1,9 @@
 package ru.netology.manager;
 
-import ru.netology.domain.PostHead;
+import ru.netology.domain.Like;
 
-public class PostHeadManager {
-    private PostHead[] postHeads;
+public class LikeManager {
+    private Like[] likes;
 
     public String generateBlock (){
         // TODO; add logic;

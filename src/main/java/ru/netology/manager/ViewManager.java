@@ -1,9 +1,9 @@
 package ru.netology.manager;
 
-import ru.netology.domain.PostHead;
+import ru.netology.domain.View;
 
-public class PostHeadManager {
-    private PostHead[] postHeads;
+public class ViewManager {
+    private View[] views;
 
     public String generateBlock (){
         // TODO; add logic;

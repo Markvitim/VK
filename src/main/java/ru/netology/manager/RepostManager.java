@@ -1,9 +1,9 @@
 package ru.netology.manager;
 
-import ru.netology.domain.PostHead;
+import ru.netology.domain.Repost;
 
-public class PostHeadManager {
-    private PostHead[] postHeads;
+public class RepostManager {
+    private Repost[] reposts;
 
     public String generateBlock (){
         // TODO; add logic;
